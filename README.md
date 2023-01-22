@@ -5,5 +5,5 @@ My first repository
 2. **Yu-gi-oh card game anime series**
 3. **Eyeshield 21 anime series**
 4. **Katekyo Hitman Reborn anime series**
-5. **Constantine move**
+5. **Constantine movie**
 6. **Legion movie**
